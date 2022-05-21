@@ -1,0 +1,1 @@
+Processo TDD: escrever o teste, executar para validar se há falha, escrever algum código da aplicação, repetir a execução do teste até o mesmo passar. A partir desse ponto, podemos refatorar o código utilizando o teste para garantir que nenhum requisito parou de funcionar.
